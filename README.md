@@ -1,16 +1,45 @@
-# React + Vite
+🚀 QuickBill — SaaS Billing & Invoice Web App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+QuickBill is a modern SaaS-style billing and invoicing web application focused on clean UI, reusable components, and real-world frontend practices.
 
-Currently, two official plugins are available:
+✨ Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+User authentication
 
-## React Compiler
+Create & manage invoices
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Responsive dashboard UI
 
-## Expanding the ESLint configuration
+Clean, reusable React components
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Firebase-backed data handling
+
+🛠 Tech Stack
+
+Frontend: React.js, Tailwind CSS, JavaScript (ES6+)
+
+Backend / Services: Firebase (Auth, Firestore)
+
+Tools: Git, GitHub, VS Code
+
+🌐 Live Demo
+
+👉 https://mdquickbill.netlify.app/
+
+📸 Screenshots
+
+<img width="951" height="416" alt="img1" src="https://github.com/user-attachments/assets/0e5c0dd2-80cf-44d6-bc9d-5cda21422275" />
+
+<img width="923" height="410" alt="img2" src="https://github.com/user-attachments/assets/229216ed-6b1a-4f77-ba25-dd3a1adcb077" />
+
+<img width="942" height="284" alt="img4" src="https://github.com/user-attachments/assets/31d15a46-e59e-492e-8a64-2d715fd9aca7" />
+
+
+📌 Purpose
+
+Built to practice production-like frontend workflows, UI structuring, and integrating frontend applications with backend services.
+
+📈 Status
+
+✅ Stable
+🚀 Open for UI/feature improvements
